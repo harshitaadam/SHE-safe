@@ -9,4 +9,4 @@
 <a href="https://sakhi.vercel.app/Sakhi.apk" download>
  Download the APK file
 </a>
-<a href="sakhi.vercel.app"></a>
+<a href="sakhi.vercel.app" link>web app</a>
